@@ -12,7 +12,8 @@
  *          Supports sequential (default) and parallel CPU signaling modes;
  *          see usage() for the full argument list and a description of each.
  * ===========================================================
- * Documentation Statement: <describe any help received>
+ * Documentation Statement: I used geeks for geeks to remember how each of the scheduling algorithms worked. C1C Jack Rust helped look at my test output and told me my timing was off.
+ *                          He did not look at my code. I used Gemini to fix an error with github.
  * ===========================================================
  * ======================================================================
  * Required Features Not Included:1
